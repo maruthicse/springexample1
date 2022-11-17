@@ -1,0 +1,6 @@
+com\example\ExampleApplicationFI.class
+com\example\setterinjection\TestCakeClassSetterInjection.class
+com\example\constructorinjection\TestCakeClassConstructorInjection.class
+com\example\ExampleApplicationSI.class
+com\example\fieldinjection\TestCookieClassFieldInjection.class
+com\example\ExampleApplicationCI.class
